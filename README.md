@@ -1,5 +1,2 @@
-# webGIS
-Hello, Try login.html first.
-The main part is in main.html.
+A simple WebGIS work.
 
-I have realized a JUMP TO using form submit.
